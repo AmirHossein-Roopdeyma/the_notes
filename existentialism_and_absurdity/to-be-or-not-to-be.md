@@ -39,7 +39,7 @@ With this regard their currents turn awry
 And lose the name of action." 
 from Hamlet By William Shakespeare
 
-## This is one of those notes that once you see, you can't unseen. Somehow difficult to follow for the first time. So you are required to fathom out what's happening here. To make it easier to understand, I attach the line by line translation/simplification from Gemini. 
+This is one of those notes that once you see, you can't unseen. Somehow difficult to follow for the first time. So you are required to fathom out what's happening here. To make it easier to understand, I attach the line by line translation/simplification from Gemini. 
 
 | Original Line                                                     | Modern Translation                                                                       |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
