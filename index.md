@@ -9,4 +9,5 @@ Welcome! This is a collection of notes organized by topic.
 
 ## Topics
 
-- [My General Notes](my_general_notes/)
+- [Existentialism and Absurdity](existentialism_and_absurdity/)
+- [Cool Technical Items](cool_technical_items/)
