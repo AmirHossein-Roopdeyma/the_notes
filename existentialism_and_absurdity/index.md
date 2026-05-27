@@ -10,4 +10,5 @@ title: Existentialism and Absurdity
 ## Pages
 
 - [To Be or Not to Be](to-be-or-not-to-be)
-- [meaning](meaning)
+- [Meaning](meaning)
+- [The jury](the_jury)
